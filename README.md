@@ -1,7 +1,7 @@
-(https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/761375926_122200808828836253_6383340069699987736_n.png?stp=dst-png&cstp=mx1376x768&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=nC1V9LO9Gu8Q7kNvwG98jWi&_nc_oc=Adqzdivim299Gn-o1WSPAmbhtZXUXRqC2P48L3mSxthN-EyHrGYnoWRxsR4KNkk5ZjY&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=5veWWs9tM9AflgaSHJ6sjQ&_nc_ss=7b2a8&oh=00_AQH2QKxbhqm2KAkuB71k9Lbr-4hXkyBvu9ZiCjyTBiIi_w&oe=6A71292C) 
+
 # Hi there 👋, my name is Al Amin
 #### Frontend Web Developer • HTML • CSS • JavaScript • Tailwind CSS  • Node.js • MongoDB
-![Frontend Web Developer • HTML • CSS • JavaScript • Tailwind CSS  • Node.js • MongoDB](https://media.licdn.com/dms/image/v2/D5616AQFiuu68lFQO3Q/profile-displaybackgroundimage-shrink_350_1400/B56ZzS.YQOJgAY-/0/1773066099027?e=1786579200&v=beta&t=O2TbsDuDSXsmiRHs91kXqJ5yHrsTkfubgyKuoH9gAfQ)
+![Frontend Web Developer • HTML • CSS • JavaScript • Tailwind CSS  • Node.js • MongoDB](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/761375926_122200808828836253_6383340069699987736_n.png?stp=dst-png&cstp=mx1376x768&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=nC1V9LO9Gu8Q7kNvwG98jWi&_nc_oc=Adqzdivim299Gn-o1WSPAmbhtZXUXRqC2P48L3mSxthN-EyHrGYnoWRxsR4KNkk5ZjY&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=5veWWs9tM9AflgaSHJ6sjQ&_nc_ss=7b2a8&oh=00_AQH2QKxbhqm2KAkuB71k9Lbr-4hXkyBvu9ZiCjyTBiIi_w&oe=6A71292C)
 
 Passionate about building modern, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products with clean code, responsive design, and great user experiences.
 
